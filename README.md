@@ -1,5 +1,6 @@
 # momentum
-Files used in building a clone of Momentum, a Chrome extension.
+This fork is no longer maintained.
+Continuing development upstream: https://github.com/ethanchoi812/momentum
 
 
 
